@@ -1,10 +1,10 @@
 ## Olá seja bem vindo ao perfil do Dev. Tiago
 
-## O que é este perfil?
+O que é este perfil?
 
-Seja bem-vindo ao perfil do GitHub do Dev. Tiago. Este perfil possui os códigos de exercicios que estou aprendendo durante os cursos, faculdades e projetos.
+Este perfil possui os códigos de exercicios e projetos que estou aprendendo durante os cursos e faculdade.
 
-Visite o meu Linkedin! <br><br>
+Visite o meu Linkedin! <br>
 <a href="https://www.linkedin.com/in/tiagoalmeida-programadorweb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 ##
 
@@ -19,4 +19,5 @@ Visite o meu Linkedin! <br><br>
   <img align="center" alt="Tiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Tiago-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Tiago-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
 </div>
