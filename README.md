@@ -4,6 +4,7 @@
 
 Seja bem-vindo ao perfil do GitHub do Dev. Tiago. Este perfil possui os códigos de exercicios que estou aprendendo durante os cursos, faculdades e projetos.
 
+Visite o meu Linkedin! <a href="https://www.linkedin.com/in/tiagoalmeida-programadorweb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 ##
 
  <div>
