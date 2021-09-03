@@ -1,4 +1,11 @@
 ![Bem vindo ao Dev Tiago!](https://github.com/tiagoalmeida48/tiagoalmeida48/blob/main/Tiago.png)
+
+## O que é este perfil?
+
+Seja bem-vindo ao perfil do GitHub do Dev. Tiago. Este perfil possui os códigos de exercicios que estou aprendendo durante os cursos, faculdades e projetos.
+
+##
+
  <div>
   <a href="https://github.com/tiagoalmeida48">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagoalmeida48&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
